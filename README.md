@@ -1,4 +1,4 @@
-# Acadgild_Data-Analytics_Session-2-Assignment-3.1
+# Acadgild_Data-Analytics_Session-3-Assignment-3.1
 
 The R-script for the given problem is as follows:
 
